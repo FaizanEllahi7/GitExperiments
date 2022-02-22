@@ -18,6 +18,16 @@ class ViewController: UIViewController {
         
         print("This is the dummy commit")
     }
+    
+    func test2() {
+        
+        print("This is the dummy commit")
+    }
+    
+    func test3() {
+        
+        print("This is the dummy commit")
+    }
 
 
 }

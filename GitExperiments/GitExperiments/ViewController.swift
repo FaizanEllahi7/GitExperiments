@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    func test() {
+        
+        print("This is my orignal state")
+    }
 }
 

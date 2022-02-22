@@ -13,6 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    func test() {
+        
+        print("This is the orignal commit")
+    }
 
 
 }

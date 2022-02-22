@@ -13,15 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    
-    func test2() {
+
+
+    func test() {
         
-        print("This is my Dymmuyy state")
-    }
-    
-    func test3() {
-        
-        print("This is my Dymmuyy state")
+        print("This is my orignal state")
     }
 }
 

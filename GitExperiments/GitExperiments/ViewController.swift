@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     func test() {
         
-        print("This is the orignal commit")
+        print("This is the dummy commit")
     }
 
 

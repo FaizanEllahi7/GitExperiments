@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    func test() {
+        
+        print("This is the dummy commit")
+    }
+    
     func test2() {
         
         print("This is the dummy commit")

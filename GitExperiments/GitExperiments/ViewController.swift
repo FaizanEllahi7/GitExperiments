@@ -19,5 +19,15 @@ class ViewController: UIViewController {
         
         print("This is my Dymmuyy state")
     }
+    
+    func test2() {
+        
+        print("This is my Dymmuyy state")
+    }
+    
+    func test3() {
+        
+        print("This is my Dymmuyy state")
+    }
 }
 
